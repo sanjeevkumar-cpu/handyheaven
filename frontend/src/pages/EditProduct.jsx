@@ -110,8 +110,10 @@ const EditProduct = () => {
                     required
                 >
                     <option value="" disabled>Select category</option>
-                    <option value="course">Course</option>
-                    <option value="template">Template</option>
+                    <option value="wearables">wearables
+                    </option>
+                    <option value="home decor">home decor
+                    </option>
                 </select>
 
                 <button onClick={handleEditProduct} className='w-full bg-green-500

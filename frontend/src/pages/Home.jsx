@@ -24,11 +24,11 @@ const latestProducts = product.slice(0, 3);
       <div className="hero-content text-center mb-24">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">
-            Welcome to <span className="text-teal-700">codeteria</span>
+            Welcome to <span className="text-teal-700">HANDY HEAVEN</span>
           </h1>
           <p className="py-6">
-            We offer the high quality online courses for programming and website
-            templates you can buy.
+          "Handcrafted with ❤️, Made Just for You!"<br></br>
+          Discover unique, handmade treasures that add a special touch to your life. ✨🛍️
           </p>
           <a href="/shop" className="btn btn-accent mt-4">
               Shop

@@ -158,8 +158,10 @@ const handleSaveProduct = async () => {
                 required
             >
                 <option value="" disabled>Select category</option>
-                <option value="course">Course</option>
-                <option value="template">Template</option>
+                <option value="wearables">wearables
+                </option>
+                <option value="home decor">home decor
+                </option>
             </select>
 
 

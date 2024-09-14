@@ -53,8 +53,10 @@ const Shop = () => {
           <select value={category} onChange={(e) => setCategory(e.target.value)}
                                    className="select select-bordered w-full max-w-xs">
             <option value="">All</option>
-            <option value="course">Courses</option>
-            <option value="template">Templates</option>
+            <option value="wearables">wearables
+            </option>
+            <option value="home decor">home decor
+            </option>
           </select>
 
         </div>
